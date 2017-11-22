@@ -1254,6 +1254,38 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qBI5g8KlKD {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #333333;
+}
+.cid-qBI5g8KlKD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qBI5g8KlKD H2 {
+  color: #efefef;
+}
+.cid-qBI4AncMRg {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #efefef;
+}
+.cid-qBI4AncMRg .image-block {
+  margin: auto;
+}
+.cid-qBI4AncMRg figcaption {
+  position: relative;
+}
+.cid-qBI4AncMRg figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qBI4AncMRg .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qAtxpwO9ha .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1639,13 +1671,15 @@ body {
 .cid-qAtxpwO9ha .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qAtwr6mIXo {
-  background-image: url("../../../assets/images/background5.jpg");
+.cid-qBHToLy7rM {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/01-3-1740x993.png");
 }
 .cid-qAtvdDAD0Q {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qAtvdDAD0Q .counter-container {
   color: #767676;
@@ -1678,15 +1712,18 @@ body {
   height: 40px;
   border-radius: 50%;
 }
-.cid-qAtU8PlGvO {
+.cid-qAtvdDAD0Q .mbr-text B {
+  color: #004a99;
+}
+.cid-qBIyH4EHUq {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/06-2000x1413.jpg");
 }
 .cid-qAtTCRK5OE {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-qAtTCRK5OE h4 {
   font-weight: 500;
@@ -1706,7 +1743,7 @@ body {
 .cid-qAtU47h5v0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/07-2000x1413.jpg");
 }
 .cid-qAtTDGQWFq {
   padding-top: 90px;
