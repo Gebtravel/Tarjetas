@@ -2280,6 +2280,44 @@ body {
 .cid-qAtxpwO9ha .navbar-collapse {
   flex-basis: auto;
 }
+.cid-qBHeVgWJ81 {
+  padding-top: 135px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1-720x1080.jpg");
+}
+.cid-qBHf4iTOnT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qBHf4iTOnT .counter-container {
+  color: #767676;
+}
+.cid-qBHf4iTOnT .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qBHf4iTOnT .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qBHf4iTOnT .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-qAtJe0AMaG {
   padding-top: 30px;
   padding-bottom: 30px;
