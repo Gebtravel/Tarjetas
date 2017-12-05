@@ -1255,7 +1255,16 @@ body {
   min-height: 100vh;
 }
 .cid-qBHToLy7rM {
-  background-image: url("../../../assets/images/01-3-1740x993.png");
+  background-image: url("../../../assets/images/businesstravel-2000x1333.jpg");
+}
+.cid-qBHToLy7rM H1 {
+  text-align: left;
+}
+.cid-qBHToLy7rM H3 {
+  text-align: left;
+}
+.cid-qBHToLy7rM P {
+  text-align: left;
 }
 .cid-qBI4AncMRg {
   padding-top: 45px;
@@ -1732,6 +1741,9 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/07-2000x1413.jpg");
 }
+.cid-qAtU47h5v0 H2 {
+  text-align: center;
+}
 .cid-qAtTDGQWFq {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1752,32 +1764,27 @@ body {
 .cid-qAtTDGQWFq .card-wrapper {
   height: 100%;
 }
-.cid-qBIZ7iGp9W {
+.cid-qCQP0TYBVT {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/businessman-2956974-1920-1920x1202.jpg");
 }
-.cid-qBIZ7iGp9W .title {
-  margin-bottom: 2rem;
+.cid-qCQP0TYBVT .main {
+  flex-direction: row-reverse;
 }
-.cid-qBIZ7iGp9W .mbr-section-subtitle {
-  color: #767676;
+.cid-qCQP0TYBVT .main .mbr-section-btn {
+  text-align: right;
 }
-.cid-qBIZ7iGp9W a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-qCQP0TYBVT .btn {
+  margin: 0 0 .5rem 0;
 }
-.cid-qBIZ7iGp9W a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
+.cid-qCQP0TYBVT H2 {
+  text-align: left;
+  color: #ffffff;
 }
-.cid-qBIZ7iGp9W .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qBIZ7iGp9W .input-group-btn {
-  display: block;
-  text-align: center;
+.cid-qCQP0TYBVT H3 {
+  text-align: left;
+  color: #ffffff;
 }
 .cid-qAtJe0AMaG {
   padding-top: 30px;
